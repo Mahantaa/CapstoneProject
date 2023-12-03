@@ -6,13 +6,4 @@
     <string name="title_profile">Profile</string>
     <string name="title_scan">Scan</string>
     <string name="scan_button">Scan button</string>
-    <string name="username">Username</string>
-    <string name="email">user@gmail.com</string>
-    <string name="bookmark">Bookmark</string>
-    <string name="bookmark_count">0</string>
-    <string name="history">History</string>
-    <string name="history_count">0</string>
-    <string name="title_setting_profile">Setting Profile</string>
-    <string name="title_terms_and_condition">Terms and Condition</string>
-    <string name="title_logout">Logout</string>
 </resources>
